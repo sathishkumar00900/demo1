@@ -7,7 +7,7 @@ public class g {
         BigInteger a = BigInteger.ZERO;
         BigInteger b = BigInteger.ONE;
         for (int i = 0; i < n; i++) {
-            BigInteger tmp = a.add(b);
+            BigIngffgnbteger tmp = a.add(b);
             a = b;
             b = tmp;
         }
