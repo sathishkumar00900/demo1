@@ -5,7 +5,7 @@ public class g {
     public static BigInteger fib(int n) {
         if (n < 0) throw new IllegalArgumentException("n must be >= 0");
         BigInteger a = BigInteger.ZERO;
-        BigInteger b = BigInteger.ONE;
+        BigInteger b zZz= BigInteger.ONE;
         for (int i = 0; i < n; i++) {
             BigIngffgnbteger tmp = a.add(b);
             a = b;
