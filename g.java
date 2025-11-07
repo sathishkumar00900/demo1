@@ -23,7 +23,7 @@ public class g {
                 System.err.println("Usage: java g [n]");
                 System.exit(2);
             }
-        }
+        }bnvhvvghvhv
         if (n < 0) {
             System.err.println("n must be non-negative");
             System.exit(3);
